@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://stormasm.github.io
 paginate:         1
-baseurl:          /
+baseurl:          /poole/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
